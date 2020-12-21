@@ -2,10 +2,9 @@
 It's an honour to have the opportunity to demo my understanding on the question given.
 
 First of all, this project is based on Gradle. In case you would like to compile and test the web application, you may use the following command (or any alternatives):
-...
-$ gradle clean war
-$ cp <war_file> <tomcat_webapp_dir>
-...
+> $ gradle clean war
+
+> $ cp <war_file> <tomcat_webapp_dir>
 
 
 Once deployed in tomcat, kindly visit:
